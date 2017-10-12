@@ -1,0 +1,21 @@
+uuid: 638f5c8c-8d28-3429-9b68-720b23410b52
+timestamps:
+  login: 1506730063536
+  lastteleport: 1506730718035
+  logout: 1506730977430
+ipAddress: 183.42.37.78
+lastlocation:
+  world: world
+  x: 302.30913481713617
+  y: 66.0
+  z: 139.3347263857661
+  yaw: 26.100063
+  pitch: 24.300001
+logoutlocation:
+  world: world
+  x: 302.5
+  y: 66.0
+  z: 141.5
+  yaw: 0.0
+  pitch: 0.0
+lastAccountName: cwh

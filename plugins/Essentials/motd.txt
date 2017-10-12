@@ -1,0 +1,4 @@
+&6欢迎你, {PLAYER}!
+&6- 世界时间:&c {WORLDTIME12}
+&6- 在线玩家数:&c {ONLINE}
+&6- 你现在的存款:&c {BALANCE}

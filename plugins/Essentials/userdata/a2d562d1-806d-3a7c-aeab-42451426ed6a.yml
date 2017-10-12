@@ -1,0 +1,30 @@
+uuid: a2d562d1-806d-3a7c-aeab-42451426ed6a
+timestamps:
+  login: 1507763991251
+  logout: 1507764663748
+  lastteleport: 1507683377052
+ipAddress: 14.25.238.156
+logoutlocation:
+  world: world
+  x: 631.573595813036
+  y: 66.0
+  z: 712.8608518556381
+  yaw: -90.74774
+  pitch: 19.049166
+lastlocation:
+  world: world
+  x: 637.6505136194758
+  y: 33.0
+  z: 797.4163611274189
+  yaw: -183.78027
+  pitch: 9.599891
+afk: false
+homes:
+  home:
+    world: world
+    x: 696.4832769977064
+    y: 65.0
+    z: 210.4595800716302
+    yaw: -248.55937
+    pitch: 19.950104
+lastAccountName: Ghoster
