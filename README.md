@@ -1,4 +1,4 @@
 # Minecraft-Cauldron
-Minecraft Cauldron Server
--config
+Minecraft Cauldron Server<br/>
+-config<br/>
 -plugins
