@@ -1,5 +1,5 @@
 settings:
-  password-required: true
+  password-required: false
   encryption: BCRYPT
   encoder: UTF-8
   PHP_VERSION: 4

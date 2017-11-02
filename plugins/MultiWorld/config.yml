@@ -12,6 +12,7 @@ options:
   useEndPortalHandler: false
   useportalhandler: false
   useWorldSpawnHandler: false
+  useWorldChatSeperator: false
 worlds:
   DIM-1:
     seed: 5522977357334745391
@@ -26,10 +27,16 @@ worlds:
     difficulty: EASY
     autoload: true
   DIM7:
-    seed: 7228012267367012617
+    seed: -3686894214537953387
     worldgen: TWILIGHTFOREST
     options: ''
     difficulty: EASY
+    autoload: true
+  Ghost_A:
+    seed: 1511
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
     autoload: true
   world:
     seed: 5522977357334745391

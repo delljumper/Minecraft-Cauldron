@@ -20,7 +20,7 @@
   "bungeeQuitMessage": "\u0026e%p went to %s server",
   "useSocketComms": false,
   "socketCommsPort": 18001,
-  "socketCommsPass": "3fdaaba6cec75a82",
+  "socketCommsPass": "3fea88c37d5ffd2f",
   "socketCommsTimeout": 10000,
   "autoUpdate": true,
   "debug": false
