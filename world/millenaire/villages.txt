@@ -1,0 +1,6 @@
+Chak Gharpur Mahal;593/72/759;indian_palace;hindi;
+Chak Gharpur Gaanv;592/72/916;indian_agricole_hamlet;hindi;
+Chak Gharpur Qila;498/73/849;indian_fort_hamlet;hindi;
+Kachnarwa Mahal;859/69/-198;indian_palace;hindi;
+Kachnarwa Gaanv;741/72/-121;indian_agricole_hamlet;hindi;
+Kachnarwa Qila;896/73/-52;indian_fort_hamlet;hindi;

@@ -1,0 +1,12 @@
+culture_reputation=hindi,1248
+culture_language=hindi,5796
+village_reputations=470/65/-185,128
+village_reputations=498/73/849,768
+village_reputations=593/72/759,10929
+village_reputations=896/73/-52,1173
+village_diplomacy=859/69/-198,5
+village_diplomacy=741/72/-121,5
+village_diplomacy=498/73/849,5
+village_diplomacy=592/72/916,5
+village_diplomacy=593/72/759,5
+village_diplomacy=896/73/-52,5

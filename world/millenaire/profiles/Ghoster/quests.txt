@@ -1,0 +1,1 @@
+quest:rajadiamondsword;step:0;startTime:8958000;currentStepStartTime:8958000;villager:general,3421957894062314941,896/73/-52;villager:startvillager,349762580536533919,593/72/759
